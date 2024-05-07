@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me...Through Social media
 - 😄 Pronouns:...she is saanu...
-- ⚡ Fun facts...tommy..
+- ⚡ Fun facts...tommy...
 
 <!--
 sahana-mm/sahana-mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
