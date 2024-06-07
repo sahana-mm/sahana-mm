@@ -14,3 +14,4 @@ sahana-mm/sahana-mm is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 -->
 I'm Sahana M M...I'm currently in 8 th semester of my Bachelors degree in GECH in the strem of Computer Science and Engineering.My dream is to become an backend developer.
+I'm sahana M M.. right now I'm in banglore and study full stack java at palle technologies... I want to become an full stack developer and get placed in a company where i can enhance my skills and knowledge and do my best there itself.
