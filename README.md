@@ -11,8 +11,9 @@
 - ⚡ Fun fact: I love problem-solving and am always excited to learn new technologies. I enjoy building projects that challenge me to improve my coding skills.
 
 ### Skills
-- Back-End: Java, Spring Boot, RESTful APIs, Microservices
+- Back-End: Java, Spring Boot, Microservices
 - Front-End: React, HTML, CSS, JavaScript
 - Database: MySQL
-- Tools & Technologies: Git, Docker, Jenkins, AWS, Node.js, JUnit, Hibernate
+- Other Technologies: Data Structures
+- Tools & Technologies: Git & GitHub, Hibernate
 I'm passionate about learning and growing in the field of Java Full Stack Development and I aim to bring value to every project I work on. My journey has just begun, but I'm committed to becoming the best version of myself as a developer.
