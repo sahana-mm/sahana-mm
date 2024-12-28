@@ -11,8 +11,8 @@
 - ⚡ Fun fact: I love problem-solving and am always excited to learn new technologies. I enjoy building projects that challenge me to improve my coding skills.
 
 ### Skills
-- Back-End: Java, Spring Boot, Microservices
-- Front-End: React, HTML, CSS, JavaScript
+- Back-End: Java, J2EE, JavaScript 
+- Front-End: React.js, HTML, CSS
 - Database: MySQL
 - Other Technologies: Data Structures
 - Tools & Technologies: Git & GitHub, Hibernate
