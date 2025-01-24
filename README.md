@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about coding and eager to become a Java Full Stack Developer.
 - 🌱 I’m currently learning Java Full Stack Development at Codegnan Destination. My goal is to master Java and build robust, scalable backend systems.
-- 💻 I am honing my skills in Java, Spring Boot, React, HTML/CSS, JavaScript, MySQL, and Node.js.
+- 💻 I am honing my skills in Java, Spring Boot, React.js, HTML/CSS, JavaScript, MySQL.
 - 📚 I’m continuously enhancing my knowledge of both front-end and back-end technologies to build end-to-end applications.
 - 💡 My goal is to become a proficient Java Full Stack Developer and contribute to building impactful solutions in a dynamic team.
 - 🚀 I’m looking to collaborate with like-minded individuals and companies where I can further improve my skills and knowledge in software development.
