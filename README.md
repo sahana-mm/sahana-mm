@@ -11,9 +11,10 @@
 - ⚡ Fun fact: I love problem-solving and am always excited to learn new technologies. I enjoy building projects that challenge me to improve my coding skills.
 
 ### Skills
-- Back-End: Java, J2EE, JavaScript 
+- Back-End: Java, J2EE, JavaScript
+- Framework: SpringBoot
 - Front-End: React.js, HTML, CSS
 - Database: MySQL
-- Other Technologies: Data Structures
-- Tools & Technologies: Git & GitHub, Hibernate
+- Other Skills: Data Structures and Algorithms
+- Tools & Technologies: Git & GitHub
 I'm passionate about learning and growing in the field of Java Full Stack Development and I aim to bring value to every project I work on. My journey has just begun, but I'm committed to becoming the best version of myself as a developer.
